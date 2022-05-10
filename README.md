@@ -65,8 +65,9 @@ Takım 61
 -
 
 - *Sprint Retrospective:*
--
-
+-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+-Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+-Unit test'ler için ayrılan efor/saat arttırılmalı
 -*Diğer Notlar*:
 - N/A
 
