@@ -52,8 +52,12 @@ Takım 61
 - *Daily Scrum*: -
 
 - *Sprint board update*: Sprint board screenshotları: 
+[Uploading Screen Shot 2022-05-10 at 17.02.27.png…]()
+
 -
 - *Ürün Durumu*: Ekran görüntüleri:
+-
+
  -
 
 - *Sprint Review*: 
