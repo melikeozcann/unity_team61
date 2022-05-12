@@ -73,6 +73,7 @@ https://docs.google.com/document/d/1nl4TJil847t4mXMxwDbSzK1Kx00B4jqrrqeDQaVUtwE/
 Alınan kararlar: 2D tasarımlara başlanacak, oyunun temel mekaniği Unity'de yazılacak. Ürünün testlerine başlanacak.
 - *Sprint Retrospective:*
 -Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
--Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
--Unit test'ler için ayrılan efor/saat arttırılmalı
+-Proje bir sonraki sprintte oluşturulup temel mekanikler yazılacaktır.
+-Toplantılar düzenli olarak yapılacak, miro structured bir şekilde düzenlenecektir.
+-Planlamada tarihler net şekilde belirlenecektir.
 
