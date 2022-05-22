@@ -63,6 +63,10 @@ https://docs.google.com/document/d/1nl4TJil847t4mXMxwDbSzK1Kx00B4jqrrqeDQaVUtwE/
 - ![image](https://user-images.githubusercontent.com/74676102/167702719-b8181366-328d-4901-9933-75470e903cea.png)
 - ![image](https://user-images.githubusercontent.com/74676102/167703484-cdc18b57-764a-4e91-8ad3-9bde2710e331.png)
 
+![Astronot](https://user-images.githubusercontent.com/74676102/169715069-6edb4f5b-de25-45bc-bf93-9781755ee89a.png)
+![roket](https://user-images.githubusercontent.com/74676102/169715077-c47a1fcb-46a9-413d-95cb-32cbc28dbc04.png)
+
+
 
 
 -
