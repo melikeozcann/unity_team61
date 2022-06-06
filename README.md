@@ -63,6 +63,9 @@ https://docs.google.com/document/d/1nl4TJil847t4mXMxwDbSzK1Kx00B4jqrrqeDQaVUtwE/
 - ![image](https://user-images.githubusercontent.com/74676102/167702719-b8181366-328d-4901-9933-75470e903cea.png)
 - ![image](https://user-images.githubusercontent.com/74676102/167703484-cdc18b57-764a-4e91-8ad3-9bde2710e331.png)
 
+-----
+
+
 ![Astronot](https://user-images.githubusercontent.com/74676102/169715069-6edb4f5b-de25-45bc-bf93-9781755ee89a.png)
 ![roket](https://user-images.githubusercontent.com/74676102/169715077-c47a1fcb-46a9-413d-95cb-32cbc28dbc04.png)
 
@@ -80,4 +83,25 @@ Alınan kararlar: 2D tasarımlara başlanacak, oyunun temel mekaniği Unity'de y
 -Proje bir sonraki sprintte oluşturulup temel mekanikler yazılacaktır.
 -Toplantılar düzenli olarak yapılacak, miro structured bir şekilde düzenlenecektir.
 -Planlamada tarihler net şekilde belirlenecektir.
+
+
+------
+# Sprint 3
+
+- *Sprint Notları*: -
+- Oyun mekaniği yeniden tasarlandı.
+- Oyun arka planı yeniden tasarlandı.
+- Karakter yeniden tasarlandı. 
+- Oyun mekaniğine bağlı olarak kodlar düzenlendi. 
+- Oyuna 2D konsepti üzerinden devam edildi. 
+
+- *Ürün Durumu*: Ekran görüntüleri:
+![alienPink_front](https://user-images.githubusercontent.com/74676102/172212119-193a4ab4-8015-4de2-bfa4-cbc2163e86d3.png)
+![alienPink_swim2](https://user-images.githubusercontent.com/74676102/172212166-4e7a64e3-ea66-45a3-b629-55d318bd300e.png)
+![elmas](https://user-images.githubusercontent.com/74676102/172212205-df25d2cb-79e5-46f2-b524-8aefe55199c7.png)
+![image](https://user-images.githubusercontent.com/74676102/172212262-2dfedaac-a61e-469d-ae32-70e3b465ed20.png)
+![image](https://user-images.githubusercontent.com/74676102/172212419-252b1254-1310-4d05-be93-cd8b2a562297.png)
+
+
+
 
