@@ -91,8 +91,8 @@ Alınan kararlar: 2D tasarımlara başlanacak, oyunun temel mekaniği Unity'de y
 # Sprint 3
 
 - *Sprint Notları*: -
-- Oyun mekaniği yeniden tasarlandı.
-- Oyun arka planı yeniden tasarlandı.
+- Oyun mekaniği tasarlandı.
+- Oyun arka planı tasarlandı.
 - Karakter yeniden tasarlandı. 
 - Oyun mekaniğine bağlı olarak kodlar düzenlendi. 
 - Oyuna 2D konsepti üzerinden devam edildi. 
