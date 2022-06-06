@@ -103,6 +103,8 @@ Alınan kararlar: 2D tasarımlara başlanacak, oyunun temel mekaniği Unity'de y
 ![elmas](https://user-images.githubusercontent.com/74676102/172212205-df25d2cb-79e5-46f2-b524-8aefe55199c7.png)
 ![image](https://user-images.githubusercontent.com/74676102/172212262-2dfedaac-a61e-469d-ae32-70e3b465ed20.png)
 ![image](https://user-images.githubusercontent.com/74676102/172212419-252b1254-1310-4d05-be93-cd8b2a562297.png)
+![image](https://user-images.githubusercontent.com/74676102/172212746-6fecb944-5826-4364-bd43-6ee22367a221.png)
+
 
 
 
