@@ -59,6 +59,8 @@ https://docs.google.com/document/d/1nl4TJil847t4mXMxwDbSzK1Kx00B4jqrrqeDQaVUtwE/
 
 -
 - *Ürün Durumu*: Ekran görüntüleri:
+
+
 - ![image](https://user-images.githubusercontent.com/74676102/167702643-a0af0cea-db1d-47eb-bdc9-9ea0f63d4f68.png)
 - ![image](https://user-images.githubusercontent.com/74676102/167702719-b8181366-328d-4901-9933-75470e903cea.png)
 - ![image](https://user-images.githubusercontent.com/74676102/167703484-cdc18b57-764a-4e91-8ad3-9bde2710e331.png)
