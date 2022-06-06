@@ -96,6 +96,7 @@ Alınan kararlar: 2D tasarımlara başlanacak, oyunun temel mekaniği Unity'de y
 - Karakter yeniden tasarlandı. 
 - Oyun mekaniğine bağlı olarak kodlar düzenlendi. 
 - Oyuna 2D konsepti üzerinden devam edildi. 
+- Oyunu oynamak için lütfen linke tıklayınız: https://play.unity.com/mg/other/oyun2-99f
 
 - *Ürün Durumu*: Ekran görüntüleri:
 ![alienPink_front](https://user-images.githubusercontent.com/74676102/172212119-193a4ab4-8015-4de2-bfa4-cbc2163e86d3.png)
